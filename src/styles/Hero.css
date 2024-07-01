@@ -1,0 +1,319 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+/* navbar */
+
+
+
+.navbar-logo {
+    height: 40px;
+    margin-right: 10px;
+}
+
+.navbar-brand {
+    font-family: "Manrope", sans-serif;
+    font-weight: 600;
+    font-size: 10px;
+}
+
+.nav-link {
+    margin: 0 10px; 
+    text-decoration: none;
+    /* color: black !important; */
+    font-size: 1rem;
+}
+
+.nav-link:hover {
+    color: #5E3BEE !important;
+}
+
+.nav-link:active {
+    color: #5E3BEE !important;
+}
+
+
+
+.contact-button {
+    color: #5E3BEE !important;
+    border: 1px solid #5E3BEE !important;
+    background-color: #FFFFFF !important;
+    padding: 5px 10px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.contact-button:hover {
+    background-color: #5E3BEE !important;
+    color: #ffffff !important;
+}
+.contact-button:active {
+    background-color:#5dcfbc  !important;
+    color: #ffffff !important;
+    border-color: #ffffff !important;
+
+
+}
+
+
+.navbar-left {
+    margin-left: 0;
+    padding-left: 15px; 
+}
+
+.navbar-right {
+    margin-right: 0;
+    padding-right: 15px; 
+}
+
+
+.container {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+
+
+
+
+
+/* hero */
+.hero{
+    background-color:hsla(198, 100%, 98%, 1);
+  
+    
+}
+.hero-section{
+    margin-top: 10rem;
+}
+#name{
+    margin-top: 4rem;
+    font-family: "Manrope", sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+}
+#develop{
+    font-family: "Manrope", sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 50px;
+}
+#expertise{
+    font-family: "Manrope", sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+}
+
+.contact-btn{
+    /* border-radius: 4px; */
+    color:#FFFFFF  !important;
+    background-color: hsla(252, 55%, 62%, 1) !important;
+    font-size: 15px;
+   font-family: "Manrope", sans-serif;
+   font-weight: 400; 
+    
+    
+}
+
+/* my skills */
+
+#myskills{
+    font-family: "Manrope", sans-serif;
+    font-weight: 600; 
+    font-size: 15px;
+}
+#myexpertise{
+    font-family: "Manrope", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+   
+}
+.cards-div{
+    border-bottom: 2px;
+}
+.cards{
+    background-color: hsla(198, 100%, 98%, 1);
+    
+   
+}
+
+.cards:active{
+    border-bottom: 2px solid hsla(252, 84%, 58%, 1) !important;
+}
+.text{
+    font-family: "Manrope", sans-serif;
+    font-weight: 400; 
+    font-size: 15px;
+}
+
+/* AboutMe  */
+.about{
+    font-family: "Manrope", sans-serif;
+    font-weight: 600; 
+    font-size: 15px;
+}
+.aboutMe{
+    font-family: "Manrope", sans-serif;
+    font-weight: 700; 
+    font-size: 30px;
+}
+.aboutText{
+    font-family: "Manrope", sans-serif;
+    font-weight: 400;
+  
+ 
+}
+
+/* portfolio */
+
+.cardLink{
+    border-bottom: 2px solid rgb(233, 231, 231);
+    height: 1px;
+    font-family: "Manrope", sans-serif;
+    font-weight: 700; 
+    font-size: 15px;
+}
+.git-btn{
+
+   border-radius: 4px;
+    color:#FFFFFF  !important;
+    background-color: hsla(252, 55%, 62%, 1) !important;
+    font-size: 15px;
+   font-family: "Manrope", sans-serif;
+   font-weight: 400; 
+ 
+  
+}
+
+.portfolio{
+    font-family: "Manrope", sans-serif;
+    font-weight: 600; 
+    font-size: 15px;
+}
+.my-portfolio{
+    font-family: "Manrope", sans-serif;
+    font-weight: 700; 
+    font-size:30px;
+}
+.portfolio-text{
+    font-family: "Manrope", sans-serif;
+    font-weight: 400; 
+   font-size: 15px;
+}
+.title{
+    font-family: "Manrope", sans-serif;
+    font-weight: 600; 
+    font-size:20px;  
+}
+/* testimony */
+.testimonial{
+    background-color:hsla(198, 100%, 98%, 1)
+}
+.testicard{
+    border: 1px solid hsla(179, 100%, 21%, 1);
+}
+
+/* contact */
+.email-btn {
+  
+    border: none;
+    color:#FFFFFF  !important;
+    background-color: hsla(252, 55%, 62%, 1) !important;
+    font-size: 15px;
+   font-family: "Manrope", sans-serif;
+   font-weight: 700;
+   
+}
+
+.get-in-touch{
+    font-family: "Manrope", sans-serif;
+    font-weight: 600; 
+    font-size: 15px;
+}
+.contact-me{
+    font-family: "Manrope", sans-serif;
+    font-weight: 700; 
+    font-size:30px;
+}
+.contact-text{
+    font-family: "Manrope", sans-serif;
+    font-weight: 400; 
+   
+}
+
+/* footer */
+footer{
+    background-color:hsla(198, 100%, 98%, 1) 
+}
+
+.footer-space{
+    margin-top: 10rem;
+}
+
+.socials{
+    cursor: pointer;
+}
+.policy-links{
+    font-family: "Manrope", sans-serif;
+    font-weight: 600; 
+    font-size: 14px;
+}
+
+
+@media (max-width: 767px) {
+    .navbar-left,
+    .navbar-right {
+        margin-left: 5px;
+        margin-right: 5px;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+ 
+    #name{
+        margin-top: 4rem;
+       
+    }
+    #develop{
+        font-family: "Manrope", sans-serif;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .hero-section{
+        margin-top: 1rem;
+        
+    }
+
+
+    
+.portfolio{
+    font-family: "Manrope", sans-serif;
+    font-weight: 600; 
+    font-size: 10px;
+}
+.my-portfolio{
+    font-family: "Manrope", sans-serif;
+    font-weight: 700; 
+    font-size:20px;
+}
+.portfolio-text{
+    font-family: "Manrope", sans-serif;
+    font-weight: 400; 
+}
+
+.title{
+    font-family: "Manrope", sans-serif;
+    font-weight: 600; 
+    font-size:15px;  
+}
+.city{
+    font-family: "Manrope", sans-serif;
+    font-weight: 400; 
+    font-size:10px;  
+}
+
+.foot-brand{
+    margin-top: 4px;
+}
+}
