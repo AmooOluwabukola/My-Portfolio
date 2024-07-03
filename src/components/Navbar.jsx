@@ -33,7 +33,7 @@ const NavBar = () => {
             <Nav.Link href="#about">About Me</Nav.Link>
             <Nav.Link href="#testimonial">Testimonials</Nav.Link>
           </Nav>
-          <a href="#contact" className=' text-decoration-none btn  contact-button'>Get In Touch</a>
+          <a href="#contact" className=' text-decoration-none btn  contact-button'>Resume</a>
 
         </Navbar.Collapse>
       </Container>

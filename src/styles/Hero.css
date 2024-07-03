@@ -172,6 +172,28 @@
     font-weight: 700; 
     font-size: 15px;
 }
+
+.website-button {
+    color: #5E3BEE !important;
+    /* border: 1px solid #5E3BEE !important; */
+    background-color: hsla(198, 100%, 98%, 1) !important;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.website-button:hover {
+    background-color: #5E3BEE !important;
+    color: #ffffff !important;
+}
+.website-button:active {
+    background-color:#5dcfbc  !important;
+    color: #ffffff !important;
+    border-color: #ffffff !important;
+
+
+}
 .git-btn{
 
    border-radius: 4px;
@@ -202,14 +224,16 @@
 .title{
     font-family: "Manrope", sans-serif;
     font-weight: 600; 
-    font-size:20px;  
+    font-size:10px;  
 }
 /* testimony */
 .testimonial{
     background-color:hsla(198, 100%, 98%, 1)
 }
 .testicard{
-    border: 1px solid hsla(179, 100%, 21%, 1);
+    font-family: "Manrope", sans-serif;
+    font-weight: 400; 
+    font-size:15px; 
 }
 
 /* contact */

@@ -7,11 +7,11 @@ import profile2 from "../assets/Avatar Image (2).svg"
 const Testimonials = () => {
   return (
     <>
-    <main id='testimonial'  className="p-4">
+    <main id='testimonial'  className="p-4 testimonial" >
         <section className="container">
-            <p className='portfolio'>Clients Feedback</p>
-            <h1 className='my-portfolio'>Customer testimonials</h1>
-            <div className="d-lg-flex justify-content-between gap-3 mb-5">
+            <p className='portfolio text-center'>Feedbacks</p>
+            <h1 className='my-portfolio text-center'>What People Say About Me</h1>
+            {/* <div className="d-lg-flex justify-content-between gap-3 mb-5">
                 <div className="testicard mb-5">
                     <div className="d-flex gap-2 m-3">
                     <img src={star} alt="" style={{width:"20px"}} />  <img src={star} alt="" style={{width:"20px"}} />  <img src={star} alt="" style={{width:"20px"}} />  <img src={star} alt="" style={{width:"20px"}} />  <img src={star} alt="" style={{width:"20px"}} />
@@ -61,7 +61,9 @@ const Testimonials = () => {
 
 
                 </div>
-            </div>
+            </div> */}
+            <p className="text-center testicard">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex officia, nihil libero voluptates cupiditate deserunt sequi expedita cum, corporis dolorem, dolores officiis nisi iure nam impedit unde exercitationem! Repellendus, autem.</p>
+            <p className="text-center title">~Lorem Ipsum~</p>
         </section>
     </main>
     
