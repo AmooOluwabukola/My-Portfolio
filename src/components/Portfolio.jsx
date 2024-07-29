@@ -64,8 +64,7 @@ const Portfolio = () => {
               <Card.Body>
                 <Card.Title className="title">Advice Generator</Card.Title>
                 <Card.Text className="portfolio-text">
-                  Em is an online social platform where users can create posts,
-                  engage with them by liking or disliking and by adding comments
+                Advice generator is a simple app that generates random advice for users without having to sign up or sign in.
                 </Card.Text>
                 <div className="d-flex gap-2 ">
                   <div>
@@ -95,7 +94,7 @@ const Portfolio = () => {
               <Card.Body>
                 <Card.Title className="title">Portfolio Website</Card.Title>
                 <Card.Text className="portfolio-text">
-                A responsive one-page portfolio website built using Reactjs consisting of about, skills, projects, and contact sections designed with React-Bootsrap
+                A responsive one-page portfolio website built using Reactjs consisting of about, skills, projects, and contact sections designed with React-Bootstrap
                 </Card.Text>
                 <div className="d-flex gap-2 ">
                   <div>

@@ -6,7 +6,6 @@ import Container from "react-bootstrap/Container";
 import NavDropdown from 'react-bootstrap/NavDropdown';
 import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
-import { BukolaCV } from "../assets/BUKOLA AMOO C.V (1).pdf";
 import "../styles/Hero.css";
 const NavBar = () => {
   const [responsiveNavbar, setResponsiveNavbar] = useState(false);
@@ -33,7 +32,7 @@ const NavBar = () => {
             <Nav.Link href="#about">About Me</Nav.Link>
             <Nav.Link href="#testimonial">Testimonials</Nav.Link>
           </Nav>
-          <a href="../assets/BUKOLA AMOO C.V (1).pdf" className=' text-decoration-none btn  contact-button'>Resume</a>
+          <a href="https://bit.ly/46lmgep" target="_blank" className=' text-decoration-none btn  contact-button'>Resume</a>
 
         </Navbar.Collapse>
       </Container>
