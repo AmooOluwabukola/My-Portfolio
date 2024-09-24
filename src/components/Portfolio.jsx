@@ -41,6 +41,7 @@ const Portfolio = () => {
                     {" "}
                     <a
                       href="https://em-social-app-bk.vercel.app/"
+                      target="_blank"
                       className="text-decoration-none text-dark pe-1 cardLink website-button"
                     >
                       Open <FaExternalLinkAlt />
@@ -49,6 +50,7 @@ const Portfolio = () => {
                   <div>
                     <a
                       href="https://em-social-app-bk.vercel.app/"
+                      target="_blank"
                       className="text-decoration-none text-dark pe-1 cardLink website-button"
                     >
                       GitHub <IoLogoGithub />
@@ -72,6 +74,7 @@ const Portfolio = () => {
                     <a
                       href="https://advice-generator-beryl-phi.vercel.app/"
                       className="text-decoration-none text-dark pe-1 cardLink website-button"
+                      target="_blank"
                     >
                       Open <FaExternalLinkAlt />
                     </a>{" "}
@@ -79,6 +82,7 @@ const Portfolio = () => {
                   <div>
                     <a
                       href="https://https://github.com/AmooOluwabukola/Advice-Generator.git"
+                      target="_blank"
                       className="text-decoration-none text-dark pe-1 cardLink website-button"
                     >
                       GitHub <IoLogoGithub />
@@ -101,6 +105,7 @@ const Portfolio = () => {
                     {" "}
                     <a
                       href="https://amoooluwabukolasportfolio-oluwabukolas-projects.vercel.app/"
+                      target="_blank"
                       className="text-decoration-none text-dark pe-1 cardLink website-button"
                     >
                       Open <FaExternalLinkAlt />
@@ -109,6 +114,7 @@ const Portfolio = () => {
                   <div>
                     <a
                       href="https://github.com/AmooOluwabukola/My-Portfolio.git"
+                      target="_blank"
                       className="text-decoration-none text-dark pe-1 cardLink website-button"
                     >
                       GitHub <IoLogoGithub />

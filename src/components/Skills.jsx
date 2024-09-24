@@ -2,8 +2,7 @@ import React from "react";
 import "../styles/Hero.css";
 import tag from "../assets/tag 1.svg";
 import mobile from "../assets/icomoon-free_mobile.svg";
-import testing from "../assets/carbon_ibm-engineering-test-mgmt.svg";
-import cloud from "../assets/feather-pen 1.svg";
+
 const Skills = () => {
   return (
     <>

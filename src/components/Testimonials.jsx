@@ -1,9 +1,6 @@
 import React from 'react'
 import "../styles/Hero.css"
-import star from "../assets/star.svg"
-import profile from "../assets/Avatar Image.svg"
-import profile1 from "../assets/Avatar Image (1).svg"
-import profile2 from "../assets/Avatar Image (2).svg"
+
 const Testimonials = () => {
   return (
     <>
@@ -11,59 +8,9 @@ const Testimonials = () => {
         <section className="container">
             <p className='portfolio text-center'>Feedbacks</p>
             <h1 className='my-portfolio text-center'>What People Say About Me</h1>
-            {/* <div className="d-lg-flex justify-content-between gap-3 mb-5">
-                <div className="testicard mb-5">
-                    <div className="d-flex gap-2 m-3">
-                    <img src={star} alt="" style={{width:"20px"}} />  <img src={star} alt="" style={{width:"20px"}} />  <img src={star} alt="" style={{width:"20px"}} />  <img src={star} alt="" style={{width:"20px"}} />  <img src={star} alt="" style={{width:"20px"}} />
-                    </div>
-              
-                 <p className='m-3'>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</p>
-                 <div className="d-flex gap-2 ">
-                    <img src={profile} alt=""  className='mx-2'/>
-                    <div className="mt-4 ">
-                       <span className='title'>Dianne Russell</span>
-                       <p className='city'>Starbucks</p>
-                    </div>
-                 </div>
-
-
-                </div>
-                <div className="testicard mb-5 ">
-                    <div className="d-flex gap-2 m-3">
-                    <img src={star} alt="" style={{width:"20px"}} />  <img src={star} alt="" style={{width:"20px"}} />  <img src={star} alt="" style={{width:"20px"}} />  <img src={star} alt="" style={{width:"20px"}} />  <img src={star} alt="" style={{width:"20px"}} />
-                    </div>
-              
-                 <p className='m-3'>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</p>
-                 <div className="d-flex gap-2 ">
-                    <img src={profile1} alt=""  className='mx-2'/>
-                    <div className="mt-4 ">
-                       <span className='title'>Kristin Watson</span>
-                       <p className='city'>Louis Vuitton</p>
-                    </div>
-                 </div>
-
-
-                </div>
-
-          <div className="mb-5 testicard">
-                    <div className="d-flex gap-2 m-3">
-                    <img src={star} alt="" style={{width:"20px"}} />  <img src={star} alt="" style={{width:"20px"}} />  <img src={star} alt="" style={{width:"20px"}} />  <img src={star} alt="" style={{width:"20px"}} />  <img src={star} alt="" style={{width:"20px"}} />
-                    </div>
-              
-                 <p className='m-3'>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare."</p>
-                 <div className="d-flex gap-2 ">
-                    <img src={profile2} alt=""  className='mx-2'/>
-                    <div className="mt-4 ">
-                       <span className='title'>Kathryn Murphy</span>
-                       <p className='city'>McDonald's</p>
-                    </div>
-                 </div>
-
-
-                </div>
-            </div> */}
-            <p className="text-center testicard">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex officia, nihil libero voluptates cupiditate deserunt sequi expedita cum, corporis dolorem, dolores officiis nisi iure nam impedit unde exercitationem! Repellendus, autem.</p>
-            <p className="text-center title">~Lorem Ipsum~</p>
+     
+            <p className="text-center testicard">Bukola is a very good team-player who pays attention to details.</p>
+            <p className="text-center title">~Ntui Goodness~</p>
         </section>
     </main>
     

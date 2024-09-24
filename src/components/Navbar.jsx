@@ -3,11 +3,9 @@ import logo from "../assets/image 1.svg";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import Container from "react-bootstrap/Container";
-import NavDropdown from 'react-bootstrap/NavDropdown';
-import Form from 'react-bootstrap/Form';
-import Button from 'react-bootstrap/Button';
 import "../styles/Hero.css";
 const NavBar = () => {
+ 
   const [responsiveNavbar, setResponsiveNavbar] = useState(false);
 
   const handleNavbar = () => {
@@ -32,11 +30,14 @@ const NavBar = () => {
             <Nav.Link href="#about">About Me</Nav.Link>
             <Nav.Link href="#testimonial">Testimonials</Nav.Link>
           </Nav>
-          <a href="https://bit.ly/46lmgep" target="_blank" className=' text-decoration-none btn  contact-button'>Resume</a>
+          <a href="https://docs.google.com/document/d/14jFHyXz4FTdRvSX11RESkvbzJAnmYLVkXtwaY4O9fUU/edit?usp=sharing" target="_blank" className=' text-decoration-none btn  contact-button '>Resume</a>
 
         </Navbar.Collapse>
       </Container>
     </Navbar>
+
+
+   
     </>
   );
 };
