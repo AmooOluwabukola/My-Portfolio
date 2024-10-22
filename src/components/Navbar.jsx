@@ -19,13 +19,12 @@ const NavBar = () => {
 <Navbar bg="white" expand="lg" className="fixed-top shadow-lg">
       <Container>
         <Navbar.Brand href="#" className="d-flex align-items-center">
-          <img src={logo} alt="Logo" className="navbar-logo" />
-          <span className="navbar-brand">AB</span>
+    
+          <span className="navbar-brand">Oluwabukola Amoo</span>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav" className="justify-content-between">
           <Nav className="mx-auto">
-            <Nav.Link href="#" className="home-link">Home</Nav.Link>
             <Nav.Link href="#projects">Portfolio</Nav.Link>
             <Nav.Link href="#about">About Me</Nav.Link>
             <Nav.Link href="#testimonial">Testimonials</Nav.Link>

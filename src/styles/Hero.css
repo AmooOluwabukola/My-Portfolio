@@ -22,18 +22,18 @@
 }
 
 .nav-link:hover {
-    color: #5E3BEE !important;
+    color: rgb(233, 41, 89) !important;
 }
 
 .nav-link:active {
-    color: #5E3BEE !important;
+    color: rgb(233, 41, 89) !important;
 }
 
 
 
 .contact-button {
-    color: #5E3BEE !important;
-    border: 1px solid #5E3BEE !important;
+    color: rgb(233, 41, 89)!important;
+    border: 1px solid rgb(233, 41, 89)!important;
     background-color: #FFFFFF !important;
     padding: 5px 10px;
     font-size: 1rem;
@@ -41,7 +41,7 @@
 }
 
 .contact-button:hover {
-    background-color: #5E3BEE !important;
+    background-color: rgb(233, 41, 89) !important;
     color: #ffffff !important;
 }
 .contact-button:active {
@@ -88,25 +88,25 @@
     margin-top: 4rem;
     font-family: "Manrope", sans-serif;
     font-weight: 600;
-    font-size: 15px;
+    font-size: 24px;
 }
 #develop{
     font-family: "Manrope", sans-serif;
     font-weight: 700;
-    font-size: 50px;
+    font-size: 40px;
     line-height: 50px;
 }
 #expertise{
     font-family: "Manrope", sans-serif;
     font-weight: 400;
-    font-size: 17px;
+    font-size: 18px;
     line-height: 26px;
 }
 
 .contact-btn{
     /* border-radius: 4px; */
     color:#FFFFFF  !important;
-    background-color: hsla(252, 55%, 62%, 1) !important;
+    background-color: rgb(233, 41, 89) !important;
     font-size: 15px;
    font-family: "Manrope", sans-serif;
    font-weight: 400; 
@@ -137,7 +137,7 @@
 }
 
 .cards:active{
-    border-bottom: 2px solid hsla(252, 84%, 58%, 1) !important;
+    border-bottom: 2px solid rgb(233, 41, 89) !important;
 }
 .text{
     font-family: "Manrope", sans-serif;
@@ -174,7 +174,7 @@
 }
 
 .website-button {
-    color: #5E3BEE !important;
+    color: rgb(233, 41, 89) !important;
     /* border: 1px solid #5E3BEE !important; */
     background-color: hsla(198, 100%, 98%, 1) !important;
     border-radius: 5px;
@@ -184,11 +184,11 @@
 }
 
 .website-button:hover {
-    background-color: #5E3BEE !important;
+    background-color: rgb(233, 41, 89) !important;
     color: #ffffff !important;
 }
 .website-button:active {
-    background-color:#5dcfbc  !important;
+    background-color:#33b2a4  !important;
     color: #ffffff !important;
     border-color: #ffffff !important;
 
@@ -198,7 +198,7 @@
 
    border-radius: 4px;
     color:#FFFFFF  !important;
-    background-color: hsla(252, 55%, 62%, 1) !important;
+    background-color: rgb(233, 41, 89) !important;
     font-size: 15px;
    font-family: "Manrope", sans-serif;
    font-weight: 400; 
@@ -224,7 +224,7 @@
 .title{
     font-family: "Manrope", sans-serif;
     font-weight: 600; 
-    font-size:10px;  
+    font-size:15px;  
 }
 /* testimony */
 .testimonial{
@@ -233,15 +233,16 @@
 .testicard{
     font-family: "Manrope", sans-serif;
     font-weight: 400; 
-    font-size:15px; 
+    font-size:16px; 
 }
+
 
 /* contact */
 .email-btn {
   
     border: none;
     color:#FFFFFF  !important;
-    background-color: hsla(252, 55%, 62%, 1) !important;
+    background-color: rgb(233, 41, 89) !important;
     font-size: 15px;
    font-family: "Manrope", sans-serif;
    font-weight: 700;
@@ -251,7 +252,7 @@
 .get-in-touch{
     font-family: "Manrope", sans-serif;
     font-weight: 600; 
-    font-size: 15px;
+    font-size: 16px;
 }
 .contact-me{
     font-family: "Manrope", sans-serif;

@@ -23,11 +23,11 @@ const Skills = () => {
               <img src={tag} alt="" className="m-3" />
               <h1 className="title m-3"> Frameworks</h1>
               <p className="m-3 text">
-               Skilled in React, Node.js, HTML, CSS, Bootsrap CSS
+               Skilled in React, Node.js, HTML, CSS, Bootsrap CSS,Tailwind Css
               </p>
             </div>
             {/* <div className="  rounded mt-3 cards">
-              <img src={testing} alt="" className="m-3" />
+              <img src={tag} alt="" className="m-3" />
               <h1 className="title m-3">Testing and Debugging</h1>
               <p className="m-3 text">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
