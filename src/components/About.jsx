@@ -19,9 +19,7 @@ const About = () => {
               Hi, my name is Oluwabukola Amoo a motivated and detail-oriented entry-level software developer with hands-on experience in front-end development and e-commerce platforms. Strong ability to collaborate remotely and create user-friendly, responsive, and scalable web applications. Ready to contribute to dynamic development teams while continuously learning new technologies.
 
               </p>
-              <p className="aboutText">
-                In my free time, I love seeing movies, playing scrabble, trying out recipes.
-              </p>
+             
             </div>
           </div>
         </section>
