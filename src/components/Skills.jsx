@@ -2,7 +2,9 @@ import React from "react";
 import "../styles/Hero.css";
 import tag from "../assets/tag 1.svg";
 import mobile from "../assets/icomoon-free_mobile.svg";
-
+import { FaMobileAlt } from "react-icons/fa";
+import { GiSkills } from "react-icons/gi";
+import { SiFramework } from "react-icons/si";
 const Skills = () => {
   return (
     <>
@@ -13,14 +15,14 @@ const Skills = () => {
           <p id="myexpertise">My Expertise</p>
           <div className="d-lg-flex justify-content-between align-items-center w-100 gap-3 mt-2 cards-div">
             <div className="  rounded mt-3 cards ">
-              <img src={mobile} alt="" className="m-3" />
+            <FaMobileAlt className="text-danger tag m-3" />
               <h1 className="title m-3">Responsive Design</h1>
               <p className="m-3 text">
                Web designs that responds to user needs by adapting to different screen sizes,layouts, and platforms.
               </p>
             </div>
             <div className=" rounded mt-3 cards">
-              <img src={tag} alt="" className="m-3" />
+            <SiFramework  className="text-danger tag m-3"/>
               <h1 className="title m-3"> Frameworks</h1>
               <p className="m-3 text">
                Skilled in React, Node.js, HTML, CSS, Bootsrap CSS,Tailwind Css
